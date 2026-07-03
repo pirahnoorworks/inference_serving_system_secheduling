@@ -59,5 +59,5 @@ pip install -r requirements.txt
 ## Optional upgrades
 
 - Replace synthetic timing with your original `execution_times.txt` tables.
-- Add policy-gradient or contextual bandit tuning for reclaim thresholds.
-- Add a Streamlit dashboard for recruiter-friendly demos.
+
+> Disclaimer: This demo was created for portfolio purposes with assistance from GitHub Copilot.
