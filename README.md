@@ -1,4 +1,4 @@
-# SHISHA Multi-Pipeline Manager
+# ODIN Multi-Pipeline Manager in inference Serving Systems
 
 A clean portfolio project that demonstrates **dynamic resource management across concurrent inference pipelines**.
 
